@@ -49,4 +49,4 @@ demo = gradio.Interface(
 )
 
 # Output response
-demo.launch(share=True)
+demo.launch(share=True, server_name="0.0.0.0", server_port=8001)
