@@ -5,3 +5,5 @@ scikit-learn==1.6.1
 xgboost==2.1.4
 joblib==1.4.2
 gradio==5.27.0
+fastapi
+prometheus-client

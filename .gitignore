@@ -1,3 +1,6 @@
 venv
 .gradio
 aws
+
+grafana-data
+prometheus-data
